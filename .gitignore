@@ -1,0 +1,15 @@
+# Ignore file
+application/config/config.php
+application/config/database.php
+application/config/routes.php
+application/views/template/main.php
+application/views/template/login.php
+.htaccess
+.editorconfig
+composer.js
+
+
+# Ignore directory
+vendor/
+assets/
+system/
